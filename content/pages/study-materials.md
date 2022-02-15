@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: fa35d3fa-d074-d4bb-402e-8c1144fcb74e
 ---
@@ -29,7 +31,7 @@ SCORES
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Timbres
 {{< tdclose >}}
 {{< tdopen >}}
@@ -68,7 +70,7 @@ _Also sprach Zarathustra: Tondichtung (frei nach Friedrich Nietszche): for full 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="6" >}}
 Triple meter
 {{< tdclose >}}
 {{< tdopen >}}
@@ -176,7 +178,7 @@ Version 2: _Das Wohltemperierte Klavier._ Vol. 1. Edited by Hans Bischoff and tr
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Scales and modes: Pentatonic
 {{< tdclose >}}
 {{< tdopen >}}
@@ -209,7 +211,7 @@ _The Lark Ascending_. Miniature score. New York, NY: Edition Eulenberg, 1982. (r
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Scales and modes: Chromatic scale
 {{< tdclose >}}
 {{< tdopen >}}
@@ -246,7 +248,7 @@ _Dido and Aeneas_. Edited by Ellen Harris. New York, NY: Edition Eulenberg, 1987
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Scales and modes: Whole tone passages
 {{< tdclose >}}
 {{< tdopen >}}
@@ -292,7 +294,7 @@ _Messiah: an oratorio_. Miniature score. New York, NY: Kalmus/CPP Belwin, \[no d
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Ostinati
 {{< tdclose >}}
 {{< tdopen >}}
@@ -325,7 +327,7 @@ _Boléro / Marice Ravel_. Miniature score. Paris, France: A. Durand, 1929.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Tonic/dominant or _do-sol_ relationship
 {{< tdclose >}}
 {{< tdopen >}}
