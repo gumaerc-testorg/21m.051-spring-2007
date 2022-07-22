@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides information about the assignments for the course,
+  including a progression of exercises and readings to accompany each unit in the
+  class schedule, and a listening assignment in the MIT Music Library.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: fdca5c32-8c90-d528-abcd-96454a52e3f8
 ---
