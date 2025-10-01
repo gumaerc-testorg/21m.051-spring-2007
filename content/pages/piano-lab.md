@@ -107,7 +107,7 @@ _Piano Literature Book 2: 17th, 18th, 19th centuries_. Edited by Frances Clark a
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Simplified Hanon-type finger exercises from the Bastien technique book, as well as [original Hanon exercises](http://en.wikipedia.org/wiki/The_Virtuoso_Pianist_In_60_Exercises).
+Simplified Hanon-type finger exercises from the Bastien technique book, as well as {{% resource_link "0b2b702e-d325-4a3c-a0f8-36b17b844c44" "original Hanon exercises" %}}.
 {{< tdclose >}}
 {{< tdopen >}}
 Hanon, Charles-Louis. _The Virtuoso Pianist in 60 Exercises_. New York, NY: G. Schirmer, 1986. ISBN: 9780793525447.

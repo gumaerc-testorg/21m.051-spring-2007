@@ -31,10 +31,10 @@ Brocklehurst, Brian, arr. _Pentatonic Song Book_. London, UK: Schott, 1968. ISMN
 Web sites
 ---------
 
-[International Kodály Society](http://www.iks.hu/)
+{{% resource_link "94d66199-3511-4b6b-82cc-41b764630e0d" "International Kodály Society" %}}
 
-[Kodály Music Institute (at New England Conservatory of Music)](https://www.kodalymusicinstitute.org/)
+{{% resource_link "1eda6697-abb9-4229-8bda-c2c17113fad7" "Kodály Music Institute (at New England Conservatory of Music)" %}}
 
-[Liszt Academy in Kecskemet, Hungary](http://kodaly.hu/)
+{{% resource_link "e6ce364f-4e51-44fb-b611-6f8b2aec7c34" "Liszt Academy in Kecskemet, Hungary" %}}
 
-[Organization of American Kodály Educators](http://www.oake.org/)
+{{% resource_link "f4a654bb-ffeb-4f36-b4c1-75e4edcb186a" "Organization of American Kodály Educators" %}}
